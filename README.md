@@ -30,4 +30,10 @@ On this chart, we are able to see the general cost of fares though a timeline fr
 
 
 ## Summary
+From our findings, these would be my business recommendations:
 
+1. We may want to consider a reduction in drivers for the Urban setting. We were shown that in the span from January to May 2019 that there were only 1625 riders for the 2405 drivers. Creating a more balanced rider to driver ratio can help improve average fare per driver. 
+
+2. We see that Rural drivers generate the most fare per ride. If we were to capitalize on that market, we may be able to improve revenue. Further research into that market may be warrented. We would want to identify what the costs are per driver, time driving, and available market for riders.
+
+3. In March, we notice that the Urban city type has a volitile month and starts to dip down before going into April, where as Suburban and Rural remain flat. We may want to see why March creates a rough patch for Urban settings and see how we can lower the volitility and improve our fare rates.
