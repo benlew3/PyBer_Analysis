@@ -21,10 +21,9 @@ The total number of rides done in Urban (1625) has 2.6X more rides more than Sub
 We can see that the average cost of fare for a ride is lower in the Urban setting, costing an average of $24.53 per ride and $16.57 for the driver. With this, we note that the total fares gained was $39,854.38, which is 2.05x more than Suburban. Suburban had an average cost of $30.97 per ride and a $39.50 per driver, which would be a 1.26x increase in cost per ride and 2.38x more per driver. At the most expensive side, Rural costs $34.62 on average per ride and the driver's fare is $55.49 on average. 
 
 Figure 1:
-!(totals)[]
+![Totals]()
 
 ### Analysis
-!(fare chart)[http://localhost:8889/view/Desktop/pyber/PyBer_Analysis/Analysis/PyBer_fare_summary.png]
-
+![fare chart](http://localhost:8889/view/Desktop/pyber/PyBer_Analysis/Analysis/PyBer_fare_summary.png)
 ## Summary
 
