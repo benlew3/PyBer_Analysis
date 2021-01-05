@@ -24,6 +24,6 @@ Figure 1:
 ![Totals]()
 
 ### Analysis
-![fare chart](http://localhost:8889/view/Desktop/pyber/PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+![fare chart](https://github.com/benlew3/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 ## Summary
 
