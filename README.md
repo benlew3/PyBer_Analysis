@@ -12,21 +12,24 @@ We want to identify what city type performse best at what fare rate. We want to 
 ### Approach:
 We will be looking at 3 different city types: Rural, Suburban and urban. In this exercise, we will be using Matplotlib, Pandas and Python in order to clean the data to look at the statistics.
 
-## Analysis and Results
-### Outcomes
+## Analysis, Overview and Results
 In our data analysis, we have noticed that that there is an inverse correlation between size of city to cost of fare. With  more drivers available, cost of fares seems to be lower. As indicated in the following figure, we can identify that Urban city types will have more rides and drivers with a lower average cost per ride. We can also see that with Rural city types will have the least amount of drivers and will have the highest average fare per driver.
 
 For the amount of drivers per city type, Urban has the most drivers by far with 2,405, followed by Suburban at 490, and Rural with onlu 78 drivers. 
 The total number of rides done in Urban (1625) has 2.6X more rides more than Suburban(625), and 13 times more than Rural(125).
 We can see that the average cost of fare for a ride is lower in the Urban setting, costing an average of $24.53 per ride and $16.57 for the driver. With this, we note that the total fares gained was $39,854.38, which is 2.05x more than Suburban. Suburban had an average cost of $30.97 per ride and a $39.50 per driver, which would be a 1.26x increase in cost per ride and 2.38x more per driver. At the most expensive side, Rural costs $34.62 on average per ride and the driver's fare is $55.49 on average. 
 
-Figure 1:
+Figure 1: <br>
 ![Totals](https://github.com/benlew3/PyBer_Analysis/blob/main/img/overall%20statistics.PNG)
+<br>
+We can tell from the data in Figure 1 that Urban drivers generate a low average fare per driver, but due to having higher ride volumes, we are able to say that Urban has the highest fare revenue of the group. In contrast, Rural has the highest average fare per driver at 55.49, but also has the lowest total rides at 125. 
 
-### Analysis
+In rider to driver ratio, Rural has a 1.6 to 1 ratio, Suburban has a 1.276 to 1 and Urban has a .675 to 1 ratio. From this, we can see that the higher ratio, the more revenue is generated. Ideally we would want Urban's ratio to get closer to a 1 to 1 ratio as well. Having this, should improve revenue got Urban Cities.
+
+Figure 2:<br>
 ![fare chart](https://github.com/benlew3/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
-On this chart, we are able to see the general cost of fares though a timeline from January 2019 to May 2019. We can see that on average, the Urban city type will generate more fare revenue that either Suburban or Rural. 
+In Figure 2, we are able to see the general cost of fares though a timeline from January 2019 to May 2019. We can see that on average, the Urban city type will generate more fare revenue that either Suburban or Rural.
 
 
 ## Summary
